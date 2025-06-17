@@ -29,15 +29,15 @@
     "你眸光一闪，我星河颠倒。"
   ],
   "humidity": {
-    "extremely_dry": "干到起静电了，多肉快喝水我也要抱你保湿～",
+    "extremely_dry": "啊啊干到起静电了～",
     "very_dry": "超干的，多肉要多喝水哦～",
     "dry": "有点干，多肉记得保湿～",
     "normal": "湿度刚好，舒服多肉～",
     "humid": "空气有点潮唷多肉～",
     "very_humid": "今天湿湿的，多肉别闷着～",
-    "extremely_humid": "湿哒哒的一天，最适合腻在一起啦～",
+    "extremely_humid": "湿哒哒的一天，适合腻一起～",
     "extra_dry": "特别干燥，要记得多喝水哦小猫～",
-    "just_right": "今天湿度完美，适合和小猫一起晒太阳～",
+    "just_right": "湿度完美，适合和小猫一起晒太阳～",
     "extra_humid": "湿气特别重，小猫注意保持清爽呀～"
   },
   "greetings": {
